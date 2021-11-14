@@ -1,6 +1,6 @@
 ﻿# Proyecto-final-base-de-datos-Jorge-Zafra-Montero
 #Proyecto del primer trimestre en donde se realiza la creación de una coleccion y
-#las diferentes consultas que se pueden realizar.
+las diferentes consultas que se pueden realizar.
 
 En este proyecto he hecho uso de campos como son:
 - Cadena de caracteres 
