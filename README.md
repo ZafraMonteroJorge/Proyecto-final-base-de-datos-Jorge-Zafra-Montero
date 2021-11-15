@@ -23,7 +23,7 @@ Respecto a los operadores he hecho uso de:
 - $not
 - $regex
 - $all
-- $exist
+- $exists
 
 
 
