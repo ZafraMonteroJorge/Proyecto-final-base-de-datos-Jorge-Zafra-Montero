@@ -24,3 +24,20 @@ Respecto a los operadores he hecho uso de:
 - $regex
 - $all
 - $exist
+ La estructura ue he utilizado ha sido la siguiente:
+ 
+ {
+  titulo:
+  precio:
+  empredesarrolladoras:
+  modojuego:
+  plataformas:
+  ventas:
+  Géneros:
+  fechaestreno:
+  personajes:
+  pegi:
+  Dlcs:
+  serie:
+ }
+  
